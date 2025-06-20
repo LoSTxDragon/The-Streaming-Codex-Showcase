@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_TO_YOUR_128x128_LOGO_ICON" alt="The Streaming Codex Logo" width="128">
+  <img src=https://github.com/LoSTxDragon/The-Streaming-Codex-Showcase/blob/main/Logo.png alt="The Streaming Codex Logo" width="128">
   <h1>The Streaming Codex</h1>
   <p><strong>Decipher your Netflix history to uncover hidden gems and get recommendations that actually work. 100% private.</strong></p>
 </div>
