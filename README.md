@@ -19,6 +19,18 @@ Our specialized AI models work together to analyze and recommend content:
 - **💎 Hidden Gem Finder**: Discovers overlooked content that matches your taste profile
 - **🔮 Combination Wizard**: Synthesizes insights from all council members into perfect recommendations
 
+### 🎪 See The Council in Action
+
+**You say**: *"I'm exhausted from work, partner coming over, need something cozy"*
+
+**🎭 MoodReader says**: "Low energy + social viewing detected"  
+**🎞️ Storyteller says**: "You need feel-good ensemble stories"  
+**🎨 Vibe Matcher says**: "Comfort show with gentle humor"  
+**💎 Gem Finder says**: "Found a hidden British gem!"  
+**🔮 Combination Wizard says**: "Like The Office meets Paddington"
+
+**✨ Result**: *"Watch 'Detectorists' - gentle British comedy about friendship that's perfect for unwinding together"*
+
 ---
 
 ## 🍿 Available Platforms
@@ -46,15 +58,24 @@ Optional upgrade featuring our 1B+ parameter leader model:
 
 ---
 
-## 📽️ Technical Innovation
+## 📽️ What Makes It Work
 
-The Streaming Codex is built on cutting-edge AI technology:
+The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 
-- **150,000+ Movies & TV Shows**: Comprehensive database with deep AI analysis
+- **150,000+ Movies & TV Shows** with deep AI analysis
+- **Custom-trained AI Models** specialized for entertainment recommendations
+- **Advanced Understanding** of themes, moods, and storytelling patterns
+- **Continuous Learning** that adapts to your evolving taste
+
+### 🔧 For Developers
+<details>
+<summary>Technical Details →</summary>
+
 - **Advanced Language Models**: Custom-trained on cinema and television analysis  
 - **Semantic Embeddings**: Deep understanding of content relationships
 - **70B Model Enrichment**: Comprehensive thematic and narrative analysis
 - **Custom Training Pipeline**: Specialized models for entertainment recommendation
+</details>
 
 ---
 
@@ -74,6 +95,28 @@ The Streaming Codex is built on cutting-edge AI technology:
 - Quick, intelligent suggestions for any viewing mood
 - No more endless scrolling through streaming catalogs
 - Perfect recommendations for date night, family time, or solo viewing
+
+---
+
+## 🎟️ Early Access Pricing
+
+### 🎯 Founders Club (First 100 Users)
+- **50% off first year**
+- **Lock in 25% discount forever after**
+- **Exclusive "Founder" badge in app**
+- **Access to private Discord channel**
+- **Vote on feature roadmap**
+- **Early access to beta features**
+- **Your name in credits (optional)**
+
+### ⭐ Early Believers (Users 101-500)
+- **40% off first year**
+- **Lock in 15% discount forever after**
+- **"Early Believer" badge**
+- **Access to community Discord**
+- **Quarterly feature voting**
+
+*Pricing locks in your discount permanently - even as we add new features and capabilities*
 
 ---
 
