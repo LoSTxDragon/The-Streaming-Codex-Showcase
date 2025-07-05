@@ -11,6 +11,16 @@ Tired of algorithmic recommendations that feel robotic? The Streaming Codex feat
 
 ---
 
+## 🎪 Why The Streaming Codex?
+
+**Netflix says:** *"Because you watched The Office"*  
+**We say:** *"You'll love this because it has the found-family dynamics and dry humor you consistently enjoy, but in a fresh workplace setting with more character development"*
+
+**Other apps:** Basic algorithmic matching  
+**The Streaming Codex:** AI that actually understands WHY you love what you love
+
+---
+
 ## 🎬 Meet the Council of 5
 
 Our specialized AI models work together to analyze and recommend content:
@@ -144,7 +154,8 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 *Available Q4 2025*
 
 ### 🆓 **Free Forever** (PWA)
-- Basic AI recommendations (limited to 20/day)
+- 5 mood-to-movie AI conversations/day
+- Unlimited basic recommendations
 - Import Netflix/Prime history
 - Save up to 100 favorites
 - Manual availability search
@@ -152,7 +163,7 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 - "Powered by OMDb" credit shown
 
 ### 📱 **Essential** - $5.99/mo or $59/year
-- Unlimited AI recommendations
+- Unlimited AI recommendations & conversations
 - Council of 5 at full power
 - Mood-to-movie feature
 - Auto availability info (OMDb)
@@ -160,9 +171,9 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 - Priority processing
 - 1 profile
 
-### 💻 **Premium** - $9.99/mo or $99/year
+### 💻 **Premium** - $9.99/mo or $99/year ⭐ **MOST POPULAR**
 - Everything in Essential
-- Desktop app (20GB) with Standard Oracle AI
+- Desktop app with Standard Oracle AI (faster, 20GB download)
 - The Oracle coordinates your Council with smart explanations
 - Offline recommendations
 - Advanced taste evolution tracking
@@ -172,7 +183,7 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 
 ### 🧠 **Ultra** - $16.99/mo or $169/year
 - Everything in Premium
-- Desktop app (40GB) with Enhanced Oracle AI
+- Desktop app with Enhanced Oracle AI (premium, 40GB download)
 - The Oracle provides deeper, more sophisticated analysis
 - Psychographic deep analysis
 - API access for power users
