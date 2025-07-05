@@ -122,7 +122,7 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 - **Early access to beta features**
 - **Your name in credits (optional)**
 
-### ⭐ Early Believers (Users 101-500 Essential+ Users)
+### ⭐ Early Believers (First 500 Essential+ Users)
 *Minimum: Essential tier ($5.99/mo)*
 - **40% off first year** → Just $3.59/month
 - **Lock in 15% discount forever** → $5.09/month after year 1
@@ -138,7 +138,7 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 
 **Get notified the moment early access opens and lock in your:**
 - ✨ **50% off first year** (first 100 users at Premium+)
-- ⭐ **40% off first year** (users 101-500 at Essential+)
+- ⭐ **40% off first year** (first 500 at Essential+)
 - 🎯 **Exclusive founder benefits**
 - 🏆 **Permanent discount pricing**
 
