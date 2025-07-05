@@ -7,6 +7,8 @@
 
 Tired of algorithmic recommendations that feel robotic? The Streaming Codex features our revolutionary **Council of 5** - specialized AI models that collaborate to deliver personalized recommendations with intelligent explanations that actually make sense.
 
+**🎬 Be among the first 500 users** | [**SECURE EARLY ACCESS →**](https://powerscodes.kit.com/61640ee027)
+
 ---
 
 ## 🎬 Meet the Council of 5
@@ -100,23 +102,90 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 
 ## 🎟️ Early Access Pricing
 
-### 🎯 Founders Club (First 100 Users)
-- **50% off first year**
-- **Lock in 25% discount forever after**
+### 🎯 Founders Club (First 100 Premium+ Users)
+*Minimum: Premium tier ($9.99/mo)*
+- **50% off first year** → Just $4.99/month
+- **Lock in 25% discount forever** → $7.49/month after year 1
 - **Exclusive "Founder" badge in app**
 - **Access to private Discord channel**
 - **Vote on feature roadmap**
 - **Early access to beta features**
 - **Your name in credits (optional)**
 
-### ⭐ Early Believers (Users 101-500)
-- **40% off first year**
-- **Lock in 15% discount forever after**
+### ⭐ Early Believers (Users 101-500 Essential+ Users)
+*Minimum: Essential tier ($5.99/mo)*
+- **40% off first year** → Just $3.59/month
+- **Lock in 15% discount forever** → $5.09/month after year 1
 - **"Early Believer" badge**
 - **Access to community Discord**
 - **Quarterly feature voting**
 
 *Pricing locks in your discount permanently - even as we add new features and capabilities*
+
+---
+
+## 🚀 SECURE YOUR FOUNDERS DISCOUNT
+
+**Get notified the moment early access opens and lock in your:**
+- ✨ **50% off first year** (first 100 users at Premium+)
+- ⭐ **40% off first year** (users 101-500 at Essential+)
+- 🎯 **Exclusive founder benefits**
+- 🏆 **Permanent discount pricing**
+
+### [**JOIN WAITLIST - GET EARLY ACCESS**](https://powerscodes.kit.com/61640ee027)
+
+⏰ **Only 500 total early access spots available**  
+🎬 **Current waitlist:** Growing daily  
+🎯 **Launch:** Q4 2025
+
+---
+
+## 💰 Full Launch Pricing
+*Available Q4 2025*
+
+### 🆓 **Free Forever** (PWA)
+- Basic AI recommendations (limited to 20/day)
+- Import Netflix/Prime history
+- Save up to 100 favorites
+- Manual availability search
+- 1 profile
+- "Powered by OMDb" credit shown
+
+### 📱 **Essential** - $5.99/mo or $59/year
+- Unlimited AI recommendations
+- Council of 5 at full power
+- Mood-to-movie feature
+- Auto availability info (OMDb)
+- Remove all credits/ads
+- Priority processing
+- 1 profile
+
+### 💻 **Premium** - $9.99/mo or $99/year
+- Everything in Essential
+- Desktop app (20GB) with Standard Oracle AI
+- The Oracle coordinates your Council with smart explanations
+- Offline recommendations
+- Advanced taste evolution tracking
+- Export your data anytime
+- Early access to new features
+- 1 profile + PWA sync
+
+### 🧠 **Ultra** - $16.99/mo or $169/year
+- Everything in Premium
+- Desktop app (40GB) with Enhanced Oracle AI
+- The Oracle provides deeper, more sophisticated analysis
+- Psychographic deep analysis
+- API access for power users
+- Beta features channel
+- 1 profile + PWA sync
+
+### 👨‍👩‍👧‍👦 **Family** - $24.99/mo or $249/year
+- Everything in Ultra
+- 5 individual profiles
+- Each profile can sync separately
+- Parental controls
+- Shared watchlists
+- Family recommendations
 
 ---
 
@@ -162,13 +231,13 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 
 ## 🎥 Stay Updated
 
+🚀 **[JOIN WAITLIST - Secure Your Early Access](https://powerscodes.kit.com/61640ee027)**
+
 ⭐ **Star this repository** to follow our development progress
 
 🐛 **Issues**: Found a bug or have a feature request? [Open an issue](../../issues)
 
 📧 **Contact**: [powerscodes@gmail.com](mailto:powerscodes@gmail.com) for inquiries
-
-✨ **Premium Waitlist**: [Get early access to Enhanced Mode](https://powerscodes.kit.com/61640ee027)
 
 ---
 
