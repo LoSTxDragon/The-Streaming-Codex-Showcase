@@ -167,7 +167,6 @@ The Streaming Codex combines cutting-edge AI with comprehensive movie knowledge:
 - Council of 5 at full power
 - Mood-to-movie feature
 - Auto availability info (OMDb)
-- Remove all credits/ads
 - Priority processing
 - 1 profile
 
